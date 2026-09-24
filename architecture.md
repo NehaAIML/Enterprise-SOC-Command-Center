@@ -1,1 +1,1 @@
-# SwarmSec Enterprise Architecture\n# Copyright (c) 2026 Neha Purohit. All Rights Reserved.\n
+# Enterprise SOC Command Center - Architecture Specification\n# Copyright (c) 2026 Neha Purohit. All Rights Reserved.\n\nProprietary system architecture and autonomous agent topology.\n
